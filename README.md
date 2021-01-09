@@ -1,5 +1,5 @@
 # WordSegmentation
-Date : 108 / 07 / 15
+Date : 2019 / 07 / 15
 
 # Motivation & Purpose
 Side Project - Word Segmentation ( Chinese )
@@ -11,6 +11,7 @@ Side Project - Word Segmentation ( Chinese )
 Word Segmentation
 
 ![](https://i.imgur.com/jel0YNI.png)
+
 ![](https://i.imgur.com/WDwQFFG.png)
 
 # Contacts
